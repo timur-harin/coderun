@@ -1,0 +1,12 @@
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac
+.DS_Store
+
+.dart_tool/
+build/
+pubspec.lock  # Except for application packages
