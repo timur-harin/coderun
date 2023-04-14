@@ -7,6 +7,8 @@
 # Mac
 .DS_Store
 
+.vscode/
+
 .dart_tool/
 build/
 pubspec.lock  # Except for application packages
